@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/c++17/
+/no-exceptions/
+/clang/
+/.cproject
+/.project
+/.settings/
